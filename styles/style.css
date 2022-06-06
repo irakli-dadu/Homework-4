@@ -1,0 +1,103 @@
+
+.logo-image {
+	width: 80px;
+	height: 70px;
+	margin-left: 20px;
+	vertical-align: middle;
+}
+.header-block {
+	margin-top: 20px;
+}
+.navbar {
+	display: inline-block;
+	margin-left: 60px;
+
+}
+.li-list {
+	display: inline-block;
+	vertical-align: middle;
+	padding-left: 20px;
+}
+.minilogo {
+	padding-left: 60px;
+	vertical-align: middle;
+
+}
+
+/*header fonts starts*/
+
+
+
+/*first block starts*/
+.first-block {
+	width: 1160px;
+	margin: 0 auto;
+}
+.title-1 {
+    font-size: 24px;
+}
+.block-1-txt {
+    font-size: 13px;
+    color: ##F80000;
+    width: 280px;
+    text-align: left;
+    padding: 66px 40px;
+
+}
+.div-block-1 {
+	display: inline-block;
+	width: 360px;
+	background: #C5C4C4;
+	margin-top: 40px;
+}
+.title-font {
+    font-family: 'Alfa-titles';
+	font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+.txt-font {
+	font-family: 'Kaushan Script';
+	font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+.div-block-2 {
+	display: inline-block;
+	width: 360px;
+	background: #C5C4C4;
+	margin-top: 40px;
+	margin-left: 40px;
+}
+.block-2-txt {
+	font-size: 13px;
+    color: ##F80000;
+    width: 280px;
+    text-align: left;
+    padding: 66px 40px;
+}
+.div-block-23 {
+	display: inline-block;
+	width: 360px;
+	background: #C5C4C4;
+	margin-top: 40px;
+	margin-left: 40px;
+}
+
+
+.second-block {
+	width: 1160px;
+	margin: 0 auto;
+}
+.title2 {
+	padding-top: 58px;
+	font-size: 24px;
+}
+.bigimage2 {
+	padding-top: 40px;
+}
+.bigpic-1 {
+	margin-top: 40px;
+	display: inline-block;
+}
