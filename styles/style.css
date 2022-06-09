@@ -104,4 +104,20 @@ body {
 .bigpic-1 {
 	margin-top: 40px;
 	display: inline-block;
+	width: 770px;
+}
+
+.second-right-block {
+	display: inline-block;
+	width: 360px;
+	height: 900px;
+	vertical-align: top;
+	margin-left: 30px;
+	margin-top: 40px;
+}
+.kiko {
+	padding-top: 100px;
+}
+.road {
+	padding-top: 102px;
 }
